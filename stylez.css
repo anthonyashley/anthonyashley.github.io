@@ -102,31 +102,31 @@ p {
 }
 
 .ee {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/clouds.jpg');
+	background-image: url('assets/clouds.jpg');
 }
 
 .kc {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/guitar.jpg');
+	background-image: url('assets/guitar.jpg');
 }
 
 .awa {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/awa.jpg');
+	background-image: url('assets/awa.jpg');
 }
 
 .pourover {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/mt.jpg');
+	background-image: url('assets/mt.jpg');
 }
 
 .iron {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/metal.jpg');
+	background-image: url('assets/metal.jpg');
 }
 
 .books {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/books.jpg');
+	background-image: url('assets/books.jpg');
 }
 
 .city {
-	background-image: url('/Users/aashley/Desktop/i/Sites/anthony-ashley-co/assets/city.jpg');
+	background-image: url('assets/city.jpg');
 }
 
 @media only screen and (max-width: 1180px) {
